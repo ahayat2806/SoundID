@@ -1,0 +1,22 @@
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID Pro.csprojAssemblyReference.cache
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Authenticator.resources
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Popup.resources
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID Pro.csproj.GenerateResource.cache
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID Pro.csproj.CoreCompileInputs.cache
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID Pro.csproj.CopyComplete
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SoundID.exe.config
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SoundID.exe
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\SoundID.pdb
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID.Properties.Resources.resources
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID.exe
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID.pdb
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\SoundID.Main.resources
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\FftSharp.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Spectrogram.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Drawing.Common.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3.xml
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+E:\Coding\SoundID\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
